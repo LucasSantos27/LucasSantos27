@@ -1,11 +1,11 @@
 ## Hi There, I'm Lucas Santos
 
-I'm a Computer Scientist student at Federal University of Itajubá and Software Developer at ProFUSION Mobi.
+I'm a Computer Scientist student at Federal University of Itajubá and Software Developer at <a href="https://github.com/profusion" target="_blank">ProFUSION</a>.
 
 - 🔭 I’m currently working mobile and backend development
 - 📱 I’m currently learning GoLang and React Native
 - 🥅 2021 Goals: Become a more complete developer
-- 😷 Fun fact: I created a covid-19 cases monitoring app in Flutter
+- 😷 Fun fact: I created a covid-19 cases monitoring app with Flutter
 
 ## Some of my Github Public Stats
 ​
